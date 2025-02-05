@@ -1,8 +1,44 @@
 [
-    {
-"id" : 
-    },
-    {
-
-    }
+  {
+    "id": 1,
+    "ClassName": "UI/UX Designing",
+    "StaffName": "Vamsi",
+    "TodayTime": "today 10am",
+    "BookNow": false
+  },
+  {
+    "id": 2,
+    "ClassName": "Graphic Designing",
+    "StaffName": "Priya Sweety",
+    "TodayTime": "Tomorrow 7am",
+    "BookNow": false
+  },
+  {
+    "id": 3,
+    "ClassName": "Design Hierarchy",
+    "StaffName": "John",
+    "TodayTime": "Today 7pm",
+    "BookNow": false
+  },
+  {
+    "id": 4,
+    "ClassName": "Basics of Frontend",
+    "StaffName": "Preety Sheety",
+    "TodayTime": "Tomorrow 12pm",
+    "BookNow": false
+  },
+  {
+    "id": 5,
+    "ClassName": "Graphic Designing",
+    "StaffName": "Priyanka",
+    "TodayTime": "Today 10pm",
+    "BookNow": false
+  },
+  {
+    "id": 6,
+    "ClassName": "Design Hierarchy",
+    "StaffName": "John",
+    "TodayTime": "Today 7pm",
+    "BookNow": false
+  }
 ]
