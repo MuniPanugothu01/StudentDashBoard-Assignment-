@@ -36,9 +36,37 @@
   },
   {
     "id": 6,
-    "ClassName": "Design Hierarchy",
+    "ClassName": ".net Developer",
     "StaffName": "John",
-    "TodayTime": "Today 7pm",
+    "TodayTime": "Today 11pm",
+    "BookNow": false
+  },
+  {
+    "id": 7,
+    "ClassName": "Python Developer",
+    "StaffName": "Praveen",
+    "TodayTime": "Tomorrow 12pm",
+    "BookNow": false
+  },
+  {
+    "id": 8,
+    "ClassName": "Design Hierarchy",
+    "StaffName": "Sunil",
+    "TodayTime": "Tomorrow 3pm",
+    "BookNow": false
+  },
+  {
+    "id": 9,
+    "ClassName": "Backend Developer",
+    "StaffName": "Praveen",
+    "TodayTime": "Tomorrow 10pm",
+    "BookNow": false
+  },
+  {
+    "id": 10,
+    "ClassName": "Graphic Designing",
+    "StaffName": "Praveen",
+    "TodayTime": "Tomorrow 7pm",
     "BookNow": false
   }
 ]
