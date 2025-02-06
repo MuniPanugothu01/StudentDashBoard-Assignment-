@@ -46,28 +46,28 @@
   {
     "id": 7,
     "ClassName": "Python Developer",
-    "StaffName": "Praveen",
+    "StaffName": "Courtney Henry",
     "TodayTime": "Tomorrow 12pm",
     "BookNow": false
   },
   {
     "id": 8,
     "ClassName": "Design Hierarchy",
-    "StaffName": "Sunil",
+    "StaffName": "Arlene McCoy",
     "TodayTime": "Tomorrow 3pm",
     "BookNow": false
   },
   {
     "id": 9,
     "ClassName": "Backend Developer",
-    "StaffName": "Praveen",
+    "StaffName": "Leslie Alexander",
     "TodayTime": "Tomorrow 10pm",
     "BookNow": false
   },
   {
     "id": 10,
     "ClassName": "Graphic Designing",
-    "StaffName": "Praveen",
+    "StaffName": "Jerome Bell",
     "TodayTime": "Tomorrow 7pm",
     "BookNow": false
   }
