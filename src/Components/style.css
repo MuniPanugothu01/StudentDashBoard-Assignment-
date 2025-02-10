@@ -8,4 +8,8 @@ th,
 tr {
   border: 2px solid black;
   text-align: center;
+  width: 500px;
+}
+img{
+  border-radius: 50%;
 }
