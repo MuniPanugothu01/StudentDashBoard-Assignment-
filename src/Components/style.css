@@ -1,6 +1,11 @@
+body{
+  margin:50px;
+  margin-left: 500px;
+}
 table,
 td,
 th,
 tr {
   border: 2px solid black;
+  text-align: center;
 }
